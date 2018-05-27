@@ -1,2 +1,0 @@
-# udacity-projects
-Udacity Repository
